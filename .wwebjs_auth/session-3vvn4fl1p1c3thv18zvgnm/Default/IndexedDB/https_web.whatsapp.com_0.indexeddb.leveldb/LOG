@@ -1,0 +1,7 @@
+2024/12/12-11:22:25.309 6e4 Creating DB C:\Users\Admin\Desktop\NodeJs\WhatsAppBot\.wwebjs_auth\session-3vvn4fl1p1c3thv18zvgnm\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2024/12/12-11:22:25.333 6e4 Reusing MANIFEST C:\Users\Admin\Desktop\NodeJs\WhatsAppBot\.wwebjs_auth\session-3vvn4fl1p1c3thv18zvgnm\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/12-11:22:27.423 1320 Level-0 table #5: started
+2024/12/12-11:22:27.456 1320 Level-0 table #5: 9823 bytes OK
+2024/12/12-11:22:27.467 1320 Delete type=0 #3
+2024/12/12-11:22:27.467 1320 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/12-11:22:27.502 181c Level-0 table #7: started
